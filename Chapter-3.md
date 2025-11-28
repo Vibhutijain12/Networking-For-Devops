@@ -45,4 +45,5 @@ You configure route tables to direct traffic, such as an internet gateway for pu
 
 You use security groups and network ACLs to control access to your instances and subnets. 
 
-<img width="252" height="200" alt="vpc" src="https://github.com/user-attachments/assets/6a77a1de-cdcb-4ac9-ac6d-6587240e5142" />
+<img width="611" height="481" alt="vpc" src="https://github.com/user-attachments/assets/42913dd0-3be1-4f56-b177-b75472992771" />
+
