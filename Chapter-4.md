@@ -2,9 +2,9 @@
 ## Networking Concepts
 
 ### Chapter 4 - 
-###### 1. Security Groups
-###### 2. NACLs
-###### 3. NAT Gateway
+##### 1. Security Groups
+##### 2. NACLs
+##### 3. NAT Gateway
 
 Security groups and NACL both act as virtual firewalls which control the traffic from Inbound and Outbound of the resources. 
 
