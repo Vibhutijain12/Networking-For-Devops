@@ -1,8 +1,8 @@
 ## Networking Concepts
 
-### Chapter 3 - 
-###### 1. VPC
-###### 2. Components of VPC
+#### Chapter 3 - 
+##### 1. VPC
+##### 2. Components of VPC
 
 ### 1. VPC - 
 
