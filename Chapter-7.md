@@ -1,8 +1,8 @@
 ## Networking Concepts
 
 #### Chapter 7
-###### 1. What are SSL and TLS? 
-###### 2. What is an SSL certificate? 
+##### 1. What are SSL and TLS? 
+##### 2. What is an SSL certificate? 
 ##### 3. What is the difference between HTTP and HTTPS? 
 ##### 4. How does SSL/TLS work? 
 
