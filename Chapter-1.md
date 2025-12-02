@@ -2,10 +2,10 @@
 # Networking Concepts
 
 ###### Chapter 1 - 
-###### 1. IP Address
-###### 2. Subnets
-###### 3. Ports 
-###### 4. CIDR
+##### 1. IP Address
+##### 2. Subnets
+##### 3. Ports 
+##### 4. CIDR
 
 
 
